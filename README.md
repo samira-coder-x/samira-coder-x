@@ -17,10 +17,10 @@
     <!-- Logos não clicáveis e quadrados -->
     <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="40" height="40" style="display:block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40" height="40" style="display:block;">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40" style="display:block;">
     <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40" style="display:block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" style="display:block;">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40" style="display:block;">
-  </div>
+    </div>
 
   <br>
   <p>
