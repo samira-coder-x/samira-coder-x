@@ -22,8 +22,6 @@
 
 <br>
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samira-coder-x&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9)
 
 
