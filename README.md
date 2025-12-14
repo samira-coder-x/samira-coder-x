@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <body>
 
-  <h1>👋 Samira Oliveira</h1>
+  <h1>👋 Olá, eu sou a Samira!</h1>
 <ul>
   </ul>
 
@@ -9,8 +9,9 @@
     🎓 Estudante de <strong>Ciência da Computação</strong><br>
     💻 Interessada em programação e estruturas de dados
   </p>
-
-  <!-- Linguagens e Tecnologias -->
+<p>
+  <strong>Tecnologias: </strong>
+</p>
 
   <div style="margin: 20px 0; display: flex; gap: 18px; flex-wrap: wrap; align-items: center;">
     <!-- Logos não clicáveis e quadrados -->
