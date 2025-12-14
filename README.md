@@ -2,7 +2,7 @@
 
   <p>
     🎓 Estudante de <strong>Ciência da Computação</strong><br>
-    💻 Interessada em programação e estruturas de dados
+    💻 Apaixonada por porgramação
   </p>
 
   <h2>🛠️ Tecnologias</h2>
