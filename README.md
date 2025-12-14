@@ -1,4 +1,4 @@
-  <h1>👋 Samira Oliveira</h1>
+  <h1>👋 Olá, eu sou a Samira!</h1>
 
   <p>
     🎓 Estudante de <strong>Ciência da Computação</strong><br>
