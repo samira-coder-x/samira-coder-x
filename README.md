@@ -1,6 +1,11 @@
 <div align="center">
 
-<h2>👋 Olá, eu sou a Samira!</h2>
+h1 {
+    border-bottom: none;
+    text-decoration: none;
+}
+
+<h1>👋 Olá, eu sou a Samira!</h1>
 
 <img src="97816cb12aec6d42ee5f82f69a500dac.gif"
      width="1000"
