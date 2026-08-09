@@ -36,21 +36,11 @@ Este perfil reúne meus **estudos, projetos, exercícios e experimentos**, acomp
 
 </div>
 
-### 📚 Atualmente estudando
-
-* 🧠 Estruturas de Dados
-* 💾 Banco de Dados & SQL
-* 💻 Programação em C e Java
-* 🌐 Desenvolvimento Web
-* 🎨 UI/UX & Figma
-
-### ✨ Minha jornada
+✨ Minha jornada
 
 > Cada projeto é uma oportunidade de aprender, experimentar e evoluir.
 
 Este repositório representa minha jornada como estudante e futura profissional de tecnologia. 🚀
-
----
 
 <div align="center">
 
