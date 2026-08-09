@@ -2,7 +2,7 @@
 
 <h3>👋 Olá, eu sou a Samira!</h3>
 
-<img src="https://i.pinimg.com/originals/97/81/6c/97816cb12aec6d42ee5f82f69a500dac.gif"
+<img src="97816cb12aec6d42ee5f82f69a500dac.gif"
      width="800"
      height="5">
 
