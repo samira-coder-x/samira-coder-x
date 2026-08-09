@@ -36,6 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma">
 </p>
 
+<img src="97816cb12aec6d42ee5f82f69a500dac.gif"
+     width="1000"
+     height="30">
+
 <h3>✨ Minha jornada</h3>
 
 <p>
@@ -46,7 +50,9 @@
   Este repositório representa minha jornada como estudante e futura profissional
   de tecnologia. 🚀
 </p>
-
+<img src="97816cb12aec6d42ee5f82f69a500dac.gif"
+     width="1000"
+     height="30">
 <div align="center">
 
 <br>
