@@ -1,13 +1,11 @@
 <h1>Olá, eu sou a Samira!</h1>
 
-<img src="./rgb-line.svg" width="800" height="6">
+<img src="./rgb-line.gif" width="100%" height="5">
 
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
   💻 Em constante aprendizado e evolução na área de tecnologia
 </p>
-
-<img src="./rgb-line.svg" width="800" height="6">
 
 <h3>🤖 Linguagens & Tecnologias</h3>
 
