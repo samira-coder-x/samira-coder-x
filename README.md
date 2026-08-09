@@ -13,7 +13,7 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="42" height="42" style="margin-right:10px;">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="42" height="42" style="margin-right:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="42" height="42" style="margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" style="margin-right:10px;">
 </p>
 
 
