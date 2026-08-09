@@ -2,9 +2,9 @@
 
 <h1>👋 Olá, eu sou a Samira!</h1>
 
-<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif"
-     width="90%"
-     height="4">
+<img src="https://i.pinimg.com/originals/97/81/6c/97816cb12aec6d42ee5f82f69a500dac.gif"
+     width="1000"
+     height="5">
 
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
