@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <strong><font size="6">👋 Olá, eu sou a Samira!</font></strong>
+  <strong><font size="50">👋 Olá, eu sou a Samira!</font></strong>
 </div>
 
 <img src="97816cb12aec6d42ee5f82f69a500dac.gif"
