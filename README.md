@@ -36,7 +36,7 @@ Este perfil reúne meus **estudos, projetos, exercícios e experimentos**, acomp
 
 </div>
 
-✨ Minha jornada
+<p>✨ Minha jornada </p>
 
 > Cada projeto é uma oportunidade de aprender, experimentar e evoluir.
 
