@@ -53,6 +53,6 @@
 
 <br>
 
-<strong>💡 Aprender • Criar • Evoluir</strong>
+<strong>Aprender • Criar • Evoluir</strong>
 
 </div>
