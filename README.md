@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>👋 Olá, eu sou a Samira!</h3>
+<h2>👋 Olá, eu sou a Samira!</h2>
 
 <img src="97816cb12aec6d42ee5f82f69a500dac.gif"
      width="1000"
@@ -13,6 +13,10 @@
 
 </div>
 
+<img src="97816cb12aec6d42ee5f82f69a500dac.gif"
+     width="1000"
+     height="30">
+
 <h3>🚀 Sobre mim: </h3>
 
 <p>
@@ -24,7 +28,9 @@
   Este perfil reúne meus <strong>estudos, projetos, exercícios e experimentos</strong>,
   acompanhando minha evolução durante a graduação.
 </p>
-
+<img src="97816cb12aec6d42ee5f82f69a500dac.gif"
+     width="1000"
+     height="30">
 <h3>🛠️ Linguagens & Tecnologias</h3>
 
 <p align="left">
