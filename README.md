@@ -1,12 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <strong><font size="50">👋 Olá, eu sou a Samira!</font></strong>
-</div>
-
-<img src="97816cb12aec6d42ee5f82f69a500dac.gif"
-     width="1000"
-     height="30">
+<h1>👋 Olá, eu sou a Samira!</h1>
 
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
