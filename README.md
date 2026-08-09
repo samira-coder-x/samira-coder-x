@@ -1,6 +1,8 @@
 <div align="center">
 
-<span style="font-size: 32px;"><strong>👋 Olá, eu sou a Samira!</strong></span>
+<div align="center">
+  <strong><font size="6">👋 Olá, eu sou a Samira!</font></strong>
+</div>
 
 <img src="97816cb12aec6d42ee5f82f69a500dac.gif"
      width="1000"
