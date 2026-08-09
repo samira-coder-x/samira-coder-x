@@ -1,10 +1,14 @@
 <h1>Olá, eu sou a Samira!</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=3&duration=1&pause=1&color=F24E1E&width=500&height=3&lines=">
+
+<img src="./rgb-line.svg" width="800" height="6">
+
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
   💻 Em constante aprendizado e evolução na área de tecnologia
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=3&duration=1&pause=1&color=F24E1E&width=500&height=3&lines=">
+
+<img src="./rgb-line.svg" width="800" height="6">
+
 <h3>🤖 Linguagens & Tecnologias</h3>
 
 <p align="left">
