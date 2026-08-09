@@ -11,7 +11,7 @@
 
 </div>
 
-<h3>🚀 Sobre mim</h3>
+<h3>🚀 Sobre mim: </h3>
 
 <p>
   Sou estudante de <strong>Ciência da Computação</strong>, apaixonada por tecnologia
