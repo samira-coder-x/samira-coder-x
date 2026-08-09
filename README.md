@@ -3,8 +3,8 @@
 <h3>👋 Olá, eu sou a Samira!</h3>
 
 <img src="97816cb12aec6d42ee5f82f69a500dac.gif"
-     width="800"
-     height="5">
+     width="1000"
+     height="30">
 
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
