@@ -35,7 +35,7 @@ Este perfil reúne meus **estudos, projetos, exercícios e experimentos**, acomp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma">
 
 </div>
-
+---
 <p>✨ Minha jornada </p>
 
 > Cada projeto é uma oportunidade de aprender, experimentar e evoluir.
