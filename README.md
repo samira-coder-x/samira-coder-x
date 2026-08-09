@@ -1,26 +1,59 @@
-<h1>Olá, eu sou a Samira!</h1>
+<div align="center">
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%">
-</p>
+# 👋 Olá, eu sou a Samira!
 
-<p>
-  🎓 <strong>Estudante de Ciência da Computação</strong><br>
-  💻 Em constante aprendizado e evolução na área de tecnologia
-</p>
+<img src="./rgb-line.gif" width="100%" height="5">
 
-<h3>🤖 Linguagens & Tecnologias</h3>
+### 🎓 Estudante de Ciência da Computação
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="42" height="42" style="margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="42" height="42" style="margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="42" height="42" style="margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="42" height="42" style="margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="42" height="42" style="margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" style="margin-right:10px;">
-</p>
+💻 Em constante aprendizado e evolução na área de tecnologia.
 
-<p>
-  ✨ Este repositório representa minha jornada como estudante, reunindo estudos, práticas e projetos
-  que refletem meu crescimento como futura profissional de tecnologia.
-</p>
+</div>
+
+---
+
+### 🚀 Sobre mim
+
+Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e sempre buscando aprender algo novo.
+
+Este perfil reúne meus **estudos, projetos, exercícios e experimentos**, acompanhando minha evolução durante a graduação.
+
+### 🛠️ Linguagens & Tecnologias
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma">
+
+</div>
+
+### 📚 Atualmente estudando
+
+* 🧠 Estruturas de Dados
+* 💾 Banco de Dados & SQL
+* 💻 Programação em C e Java
+* 🌐 Desenvolvimento Web
+* 🎨 UI/UX & Figma
+
+### ✨ Minha jornada
+
+> Cada projeto é uma oportunidade de aprender, experimentar e evoluir.
+
+Este repositório representa minha jornada como estudante e futura profissional de tecnologia. 🚀
+
+---
+
+<div align="center">
+
+💡 **Aprender • Criar • Evoluir**
+
+</div>
