@@ -1,6 +1,8 @@
 <h1>Olá, eu sou a Samira!</h1>
 
-<img src="./rgb-line.gif" width="100%" height="5">
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%">
+</p>
 
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
@@ -17,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="42" height="42" style="margin-right:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" style="margin-right:10px;">
 </p>
-
 
 <p>
   ✨ Este repositório representa minha jornada como estudante, reunindo estudos, práticas e projetos
