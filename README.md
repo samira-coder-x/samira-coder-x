@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Olá, eu sou a Samira!</h1>
+<h2>👋 Olá, eu sou a Samira!</h2>
 
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="42" height="42" alt="DataGrip">&nbsp;&nbsp;
 </p>
 
 <h3>✨ Minha jornada</h3>
