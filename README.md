@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👋 Olá, eu sou a Samira!</h2>
+<h1>👋 Olá, eu sou a Samira!</h1>
 
 <p>
   🎓 <strong>Estudante de Ciência da Computação</strong><br>
@@ -50,10 +50,14 @@
 <img src="97816cb12aec6d42ee5f82f69a500dac.gif"
      width="1000"
      height="30">
+     
 <div align="center">
 
 <br>
 
-<strong>Aprender • Criar • Evoluir</strong>
+<strong>Aprender • Criar • Evoluir <a href="SEU_LINK_DO_LINKEDIN">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="42" height="42" alt="LinkedIn">
+</a> </strong>
 
 </div>
